@@ -21,11 +21,11 @@
                 {
                     if (i == arr.Length - 1)
                     {
-                        return false;
+                        return false
                     }
                     if (arr[i+1] != currSum)
                     {
-                        return false;
+                        return false
                     }
                     currSum = 0;
                     cnt = 0;
