@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int[] arr = {0, 3, 7, 5, -999, 15, 6, 1, 2, -999, 24, 3, 3, -999, 30, 2, 8, -999, 40};
-            Console.WriteLine(IsNice(arr));
+            Console.WriteLine("Hello");
         }
 
         //: שאלה מספר 1
