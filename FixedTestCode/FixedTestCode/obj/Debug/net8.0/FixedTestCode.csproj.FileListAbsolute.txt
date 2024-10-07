@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\bin\Debug\net8.0\FixedTestCode.exe
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\bin\Debug\net8.0\FixedTestCode.deps.json
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\bin\Debug\net8.0\FixedTestCode.runtimeconfig.json
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\bin\Debug\net8.0\FixedTestCode.dll
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\bin\Debug\net8.0\FixedTestCode.pdb
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.AssemblyInfo.cs
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.dll
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\refint\FixedTestCode.dll
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.pdb
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\FixedTestCode.genruntimeconfig.cache
+C:\Users\User\source\repos\FixedTestCode\FixedTestCode\obj\Debug\net8.0\ref\FixedTestCode.dll
